@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=AidEasyPea
+_Comment=AidEasyPea application
+Categories=GNOME;Utility;
+Exec=aideasypea
+Icon=aideasypea
+Terminal=false
+Type=Application
